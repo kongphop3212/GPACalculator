@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Form1.resources
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+C:\Users\PC\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
